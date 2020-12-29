@@ -1,5 +1,4 @@
 import java.io.File
-import kotlin.math.sqrt
 
 fun main() {
     val file = File("src/main/resources/dec22.txt")

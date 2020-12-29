@@ -1,5 +1,4 @@
 import java.io.File
-import kotlin.math.sqrt
 
 data class Food(
     val ingredients: List<String>,
